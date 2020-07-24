@@ -6,3 +6,5 @@ O SyncView foi criado para auxiliar as redes que utilizam o sistema AutoSystem b
 
 
  - Para utilizar esse programa , é obrigatório possui nossa API rodando em seu servidor !
+
+![alt text](https://i.imgur.com/miz32KP.jpg)
